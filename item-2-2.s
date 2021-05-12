@@ -9,4 +9,4 @@ main:
 	SWI	0x0
 firstfunc:
 	ADDS	r0, r0, r1
-	MOV	pc, lr
+	MOV	pc, lr @test
